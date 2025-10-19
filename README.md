@@ -33,3 +33,6 @@ These insights give stakeholders key business metrics and information, enabling 
 ## 🛡️ License
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+## Props to:
+Baraa Khatib Salkini AKA [Data With Baraa](https://www.youtube.com/channel/UC8_RSKwbU1OmZWNEoLV1tQg)
